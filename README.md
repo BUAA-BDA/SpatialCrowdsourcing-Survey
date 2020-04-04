@@ -8,7 +8,7 @@ This is a collection of research papers on spatial crowdsourcing and most of the
 *Yongxin Tong, Lei Chen, Cyrus Shahabi.* PVLDB 10(12): 1988-1991 (2017). [link](http://www.vldb.org/pvldb/vol10/p1988-tong.pdf) [slides](http://yongxintong.group/static/paper/2017/VLDB2017_Spatial%20Crowdsourcing_Challenges,%20Techniques,%20and%20Applications_Slides.pdf)
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Yuxiang Zeng](https://www.cse.ust.hk/~yzengal) (Email: yzengal@connect.ust.hk).
-If you find this work helpful in your research, please consider citing our paper and the bibtex are listed below:
+If you find this work helpful in your research, please consider citing our papers and the bibtex are listed below:
 ```  
 @article{DBLP:journals/vldb/TongZZCS20,
   author    = {Yongxin Tong and
